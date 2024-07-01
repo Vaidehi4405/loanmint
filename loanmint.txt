@@ -4,7 +4,7 @@
   "language": "en_US",
   "data": [
     {
-      "calScreenShow":true,
+      "calScreenShow": "on",
       "bannerAdsShow": true,
       "interstitialAdsShow": true,
       "nativeAdsShow": true,
